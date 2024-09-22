@@ -1232,7 +1232,7 @@ section,
 }
 
 .about-us .content ul i,
-.contact .content ul i {
+.contact.section ul i {
   font-size: 1.25rem;
   margin-right: 4px;
   color: var(--accent-color);
